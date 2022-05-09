@@ -1,9 +1,7 @@
 # DDOSINC
 Free send packet from address
 
-==============================
 == A N O N Y M O U S  I N C ==
-==============================
 
 ## Get Started
 Clone Repo
