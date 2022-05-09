@@ -1,5 +1,5 @@
 # DDOSINC
-Free send packet from address
+Free send packet from web ip address
 
 == A N O N Y M O U S  I N C ==
 
