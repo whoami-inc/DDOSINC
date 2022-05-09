@@ -6,7 +6,7 @@ Free send packet from web ip address
 ## Get Started
 Clone Repo
 ```
-git clone https://github.com/IyoRTML/TeleScrap.git
+git clone https://github.com/whoami-inc/DDOSINC.git
 ```
 
 ## Run in DDOS.EXE
@@ -17,4 +17,4 @@ git clone https://github.com/IyoRTML/TeleScrap.git
 > Packet Size ex '99999'
 ```
 
-![Anonymous INC](https://github.com/IyoRTML/DDOSINC/blob/main/img/ddos_inc.jpg?raw=true)
+![Anonymous INC](https://github.com/whoami-inc/DDOSINC/blob/main/img/ddos_inc.jpg?raw=true)
